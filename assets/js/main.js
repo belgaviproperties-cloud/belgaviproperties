@@ -32,7 +32,7 @@ const sampleListings = [
     price: "₹ 1.2 Cr",
     meta: "Kamal • 4 BHK • 2000 sqft",
     description: "Spacious garden, private parking.",
-    images: ["assets/images/2bhk-1.jpg,"assets/images/house-2.jpg"],
+    images: ["assets/images/2bhk-1.jpg,"assets/images/123.jpeg"],
     videoUrl: ""
   }
 
