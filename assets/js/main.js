@@ -32,7 +32,7 @@ const sampleListings = [
     price: "₹ 1.2 Cr",
     meta: "Kamal • 4 BHK • 2000 sqft",
     description: "Spacious garden, private parking.",
-    images: ["assets/images/123.jpeg,"assets/images/123.jpeg"],
+    images: ["assets/images/123.jpeg"],
     videoUrl: ""
   }
 
@@ -43,7 +43,7 @@ const sampleListings = [
     price: "₹ 45,00,000",
     meta: "mumbai • 2 BHK • 950 sqft",
     description: "Semi-furnished, 2nd floor, immediate possession.",
-    images: ["assets/images/2bhk-1.jpg","assets/images/2bhk-1.jpg"],
+    images: ["assets/images/123.jpeg"],
     videoUrl: ""
   },
 ];
