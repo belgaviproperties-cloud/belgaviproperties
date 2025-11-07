@@ -22,7 +22,7 @@ const sampleListings = [
     price: "₹ 18,000/mo",
     meta: "Tilakwadi • 3 BHK • Furnished",
     description: "Balcony, covered parking. Close to market.",
-    images: ["assets/images/2bhk-1.jpg"],
+    images: ["assets/images/123.jpeg"],
     videoUrl: ""
   },
   {
