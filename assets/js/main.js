@@ -35,6 +35,17 @@ const sampleListings = [
     images: ["assets/images/house-2.jpg","assets/images/house-2.jpg"],
     videoUrl: ""
   }
+
+  {
+    id: 4,
+    title: "2BHK near Rani Chennamma Circle",
+    type: "buy",
+    price: "₹ 45,00,000",
+    meta: "mumbai • 2 BHK • 950 sqft",
+    description: "Semi-furnished, 2nd floor, immediate possession.",
+    images: ["assets/images/2bhk-1.jpg","assets/images/2bhk-2.jpg"],
+    videoUrl: ""
+  },
 ];
 
 /* ====== helper: create card with thumbnail and View gallery ====== */
