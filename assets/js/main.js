@@ -7,7 +7,7 @@
 const sampleListings = [
   {
     id: 1,
-    title: "2BHK near Rani Chennamma Circle",
+    title: "2BHK khade bazar Circle",
     type: "buy",
     price: "₹ 45,00,000",
     meta: "khade bazar • 2 BHK • 950 sqft",
@@ -22,7 +22,7 @@ const sampleListings = [
     price: "₹ 18,000/mo",
     meta: "Tilakwadi • 3 BHK • Furnished",
     description: "Balcony, covered parking. Close to market.",
-    images: ["assets/images/3bhk-2.jpg"],
+    images: ["assets/images/2bhk-1.jpg"],
     videoUrl: ""
   },
   {
@@ -32,7 +32,7 @@ const sampleListings = [
     price: "₹ 1.2 Cr",
     meta: "Kamal • 4 BHK • 2000 sqft",
     description: "Spacious garden, private parking.",
-    images: ["assets/images/house-2.jpg","assets/images/house-2.jpg"],
+    images: ["assets/images/2bhk-1.jpg,"assets/images/house-2.jpg"],
     videoUrl: ""
   }
 
@@ -43,7 +43,7 @@ const sampleListings = [
     price: "₹ 45,00,000",
     meta: "mumbai • 2 BHK • 950 sqft",
     description: "Semi-furnished, 2nd floor, immediate possession.",
-    images: ["assets/images/2bhk-1.jpg","assets/images/2bhk-2.jpg"],
+    images: ["assets/images/2bhk-1.jpg","assets/images/2bhk-1.jpg"],
     videoUrl: ""
   },
 ];
